@@ -1,0 +1,7 @@
+# ORG and team names are placeholders, replace once confirmed
+* @ORG/cloud-platform
+/modules/vpc-sc/ @ORG/cloud-platform @ORG/security
+/modules/shared-vpc/ @ORG/cloud-platform @ORG/security
+/modules/firewall-policy/ @ORG/cloud-platform @ORG/security
+/modules/iam-group-binding/ @ORG/cloud-platform @ORG/security
+/modules/wif-github/ @ORG/cloud-platform @ORG/security
